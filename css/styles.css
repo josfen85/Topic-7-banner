@@ -476,3 +476,8 @@ main article {
 main article footer p {
   font-size: 12px;
 }
+
+main article a {
+  color: inherit;
+  text-decoration: none;
+}
